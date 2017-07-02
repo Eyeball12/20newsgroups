@@ -1,0 +1,2 @@
+# 20newsgroups
+20newsgroupsのうち5カテゴリでの分類
